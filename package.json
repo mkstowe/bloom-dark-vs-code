@@ -1,0 +1,39 @@
+{
+  "name": "bloom-dark-theme",
+  "displayName": "Bloom Dark",
+  "description": "A muted color theme",
+  "version": "1.0.0",
+  "publisher": "mkstowe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkstowe/bloom-dark-vs-code"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "mkstowe",
+    "color",
+    "colorscheme",
+    "color scheme",
+    "color theme",
+    "bloom",
+    "bloom dark",
+    "pastel",
+    "muted"
+  ],
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bloom Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bloom Dark-color-theme.json"
+      }
+    ]
+  }
+}
