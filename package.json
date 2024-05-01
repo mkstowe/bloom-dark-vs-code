@@ -22,7 +22,7 @@
     "muted"
   ],
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^1.7.0"
   },
   "categories": [
     "Themes"
